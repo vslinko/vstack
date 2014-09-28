@@ -5,7 +5,10 @@
         "test": "jest -i"
     },
     "dependencies": {
-        "inherits": "~2.0"
+        "inherits": "~2.0",
+        "dep-graph": "~1.1",
+        "invariant": "~1.0",
+        "es6-promise": "~1.0"
     },
     "devDependencies": {
         "jest-cli": "~0.1"
